@@ -4,15 +4,15 @@ Duvel est une famille inspirée de la ville flamande de Gand. Elle tire ses orig
 
 ## Specimen
 
-![Duvel-v1-specimen-000](https://github.com/jjjlllnnn/Duvel/master/documentation/images/Duvel-v1-specimen-000.jpg)
-![Duvel-v1-specimen-001](https://github.com/jjjlllnnn/Duvel/master/documentation/images/Duvel-v1-specimen-001.jpg)
-![Duvel-v1-specimen-002](https://github.com/jjjlllnnn/Duvel/master/documentation/images/Duvel-v1-specimen-002.jpg)
-![Duvel-v1-specimen-003](https://github.com/jjjlllnnn/Duvel/master/documentation/images/Duvel-v1-specimen-003.jpg)
-![Duvel-v1-specimen-004](https://github.com/jjjlllnnn/Duvel/master/documentation/images/Duvel-v1-specimen-004.jpg)
-![Duvel-v1-specimen-005](https://github.com/jjjlllnnn/Duvel/master/documentation/images/Duvel-v1-specimen-005.jpg)
-![Duvel-v1-specimen-006](https://github.com/jjjlllnnn/Duvel/master/documentation/images/Duvel-v1-specimen-006.jpg)
-![Duvel-v1-specimen-007](https://github.com/jjjlllnnn/Duvel/master/documentation/images/Duvel-v1-specimen-007.jpg)
-![Duvel-v1-specimen-008](https://github.com/jjjlllnnn/Duvel/master/documentation/images/Duvel-v1-specimen-008.jpg)
+![Duvel-v1-specimen-000](https://github.com/jjjlllnnn/Duvel/blob/master/documentation/images/Duvel-v1-specimen-000.jpg)
+![Duvel-v1-specimen-001](https://github.com/jjjlllnnn/Duvel/blob/master/documentation/images/Duvel-v1-specimen-001.jpg)
+![Duvel-v1-specimen-002](https://github.com/jjjlllnnn/Duvel/blob/master/documentation/images/Duvel-v1-specimen-002.jpg)
+![Duvel-v1-specimen-003](https://github.com/jjjlllnnn/Duvel/blob/master/documentation/images/Duvel-v1-specimen-003.jpg)
+![Duvel-v1-specimen-004](https://github.com/jjjlllnnn/Duvel/blob/master/documentation/images/Duvel-v1-specimen-004.jpg)
+![Duvel-v1-specimen-005](https://github.com/jjjlllnnn/Duvel/blob/master/documentation/images/Duvel-v1-specimen-005.jpg)
+![Duvel-v1-specimen-006](https://github.com/jjjlllnnn/Duvel/blob/master/documentation/images/Duvel-v1-specimen-006.jpg)
+![Duvel-v1-specimen-007](https://github.com/jjjlllnnn/Duvel/blob/master/documentation/images/Duvel-v1-specimen-007.jpg)
+![Duvel-v1-specimen-008](https://github.com/jjjlllnnn/Duvel/blob/master/documentation/images/Duvel-v1-specimen-008.jpg)
 ## License
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1. 
