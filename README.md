@@ -1,8 +1,8 @@
 # Duvel
 
-![Duvel-v1-specimen-002](https://github.com/jjjlllnnn/Duvel/blob/master/documentation/images/Duvel-v1-specimen-002.jpg)
+![Duvel-v1-specimen-001](https://github.com/jjjlllnnn/Duvel/blob/master/documentation/images/Duvel-v1-specimen-001.jpg)
 
-###Anglais###
+###English###
 Duvel is a type family inspired by the flemish city of Ghent. Its origines are engraved letters seen is the oldest part of the town. While redrawing it, I suppressed the contrast between thick and thin that was present in the original engravings. This made this alphabet quasi monolinear. Afterwards, gothic inspirations appeared.
 
 There were only capitals in the original engravings, I declined all the lowercases, keeping the caps at the x-height, as small caps. The result is a rather ornemental alphabet, with structures sometimes gothic, sometimes organic. There are alternates for almost all the letters. An opentype fonction allows to change the aspect of a letter each time it appears in a word. Also, titling ligatures and dingbats has been added to the project.
@@ -21,7 +21,7 @@ Si les gravures de bases n'existaient qu'en capitales, j'ai décliné l'ensemble
 ## Specimen
 
 ![Duvel-v1-specimen-000](https://github.com/jjjlllnnn/Duvel/blob/master/documentation/images/Duvel-v1-specimen-000.jpg)
-![Duvel-v1-specimen-001](https://github.com/jjjlllnnn/Duvel/blob/master/documentation/images/Duvel-v1-specimen-001.jpg)
+![Duvel-v1-specimen-002](https://github.com/jjjlllnnn/Duvel/blob/master/documentation/images/Duvel-v1-specimen-002.jpg)
 ![Duvel-v1-specimen-003](https://github.com/jjjlllnnn/Duvel/blob/master/documentation/images/Duvel-v1-specimen-003.jpg)
 ![Duvel-v1-specimen-004](https://github.com/jjjlllnnn/Duvel/blob/master/documentation/images/Duvel-v1-specimen-004.jpg)
 ![Duvel-v1-specimen-005](https://github.com/jjjlllnnn/Duvel/blob/master/documentation/images/Duvel-v1-specimen-005.jpg)
